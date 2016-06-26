@@ -1,0 +1,17 @@
+<div id="title">
+  <h1>
+    {% unless site.git == "" %}
+		  <a id="git-ic" href="{{site.git}}"><i class="fa fa-github"></i></a>
+    {% endunless %}
+
+    <a id="sitename" href="http://127.0.0.1:4000">Bruno Korbar</a>
+  </h1>
+
+  <!-- Add something about you in p tag-->
+  <p>Hello, my name is Bruno, and this is my playground.</p>
+  <p>Welcome, and have fun!</p>
+  <hr/>
+
+  {% include nav-links.html %}
+
+</div>
