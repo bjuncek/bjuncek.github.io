@@ -1,0 +1,51 @@
+---
+title: "Colemak or the safe typing"
+tags: [lifestyle, challenge, computer science]
+---
+
+
+Here is an thought - what if sitting and typing can cause one of the
+most common workplace injuries in the current age?
+Apparently, [RSI](https://en.wikipedia.org/wiki/Repetitive_strain_injury) is a real
+thing once you're old enough.
+Funny enough, I'm actually becoming old enough to consider the risks my future job will have,
+on my body. So far, I realized that whatever I do, I'll include spending at least 5 hours
+a day behind the keyboard. For the next 40 years (or until we come up with better
+input sources). That's not a promising start, even if I'm used to common strain
+injuries (wee "varsity" sports).
+
+Now I enjoy programming - there is no need for me to find different career right?
+Cool, so how to avoid strain injuries?
+
+Well, one thing is _keyboard_. And this is what this post will be about.
+However, not the physical keyboard (on which I have written on my old blog), but
+the actual _layout_. A lot of people, such as [Matt Mullenweg](ma.tt) embraced
+Dvorak as a superior layout to the proven and tested QWERTY. I have tried it in the
+past which caused ridicule and hatered of my fellow roommates who never touched
+my computer again (and probably learned a couple of Croatian swearwords).
+It's not to say I was bad at it. After about two weeks, I was around 80wpm which
+is close enough to my QWERTY speed, and certainly enough not to restrain me while
+programming (I figured typing speed was never my real issue - thinking is). The
+reason why I switched back to QWERTY though was mostly due to shortcuts. I tend to
+use a plethora of shortcuts throughout all of the apps, and Dvorak was just not
+suitable for that. It was actually noticably more comfortable to type, but every other
+aspect of using a computer was way inferior to QWERTY.
+
+And I stuck with QWERTY for the last two years. ROI for dvorak just wasn't good enough.
+
+Until today that is.
+While innocently browsing the web, I found [Colemak](colemak.com). It seems to solve
+most to all of my shortcut problems, while, promising better learning curve.
+It has also shown 2-3% improvement in efficiency over Dvorak, which itself was a
+significant improvement over QWERTY.
+
+![Colemak layout](https://colemak.com/wiki/images/8/80/Colemak_layout_2.png)
+
+
+
+So here is my challenge for this term:
+
+__Everyhing I type in my room shall be typed on colemak__.
+
+Why? It's fun to learn new things. If it'll also help me
+with my future help, power to it.
