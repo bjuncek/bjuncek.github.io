@@ -3,7 +3,7 @@
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
-  font: 14px/1.5 'Open Sans', sans-serif;
+  font: 16px/1.5 'Open Sans', sans-serif;
   color: #A3BFC6 ;
   font-weight: normal;
   background: #222A30;
@@ -43,7 +43,7 @@ h4, h5, h6 {
 
 h3 {
   font-size: 18px;
-  line-height: 24px;
+  line-height: 28px;
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
   color: #b6b6b6;
@@ -65,7 +65,7 @@ a:hover, a:active, a:focus, a:visited  {
 }
 
 a small {
-  font-size: 11px;
+  font-size: 12px;
   color: #666;
   margin-top: -0.6em;
   display: block;
