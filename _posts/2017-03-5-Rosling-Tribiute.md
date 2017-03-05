@@ -8,11 +8,10 @@ I would take on a new resolution every month, no criteria what-so-ever. Some of 
 
 I first came in contact with professor Rosling's work in 2009, when I saw his first talk. At the time, I didn't quite understand how important it was, however, I what blew me away was the way he was showing the data. It was unlike anything I have seen - you had this old guy using what looked like a very old school app narrating the animated bubbles and lines like it was a football match - he made population statistics fun and exciting.
 
-It turned out, however, that I was not alone in that thought. Apparently, it was a start of a movement of data-visualization and data performance. It was revolutionary. According to [Moritz Stafner](http://datastori.es/92-a-tribute-to-hans-rosling/), 50% of the people in the field started working on it because of professor Rosling. That is a huge legacy, an
+It turned out, however, that I was not alone in that thought. Apparently, it was a start of a movement of data-visualization and data performance. It was revolutionary. According to [Moritz Stafner](http://datastori.es/92-a-tribute-to-hans-rosling/), 50% of the people in the field started working on it because of professor Rosling. That is a huge legacy!
 
 To me, though, he showed that the World, as it was shown in our textbooks was not as divided as one would think - it was continuous scale. I went trough hours of his talks, and thoroughly enjoyed most of them. I know that from now on, I will make sure that whenever I have to present data, I make it as exciting as possible. Thanks, and rest in peace.
 
 If you don't know who he is, spare 5 minutes to watch the show below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jbkSRLYSojo" frameborder="0" allowfullscreen></iframe>
-![Hans' BBC Show](https://www.youtube.com/watch?v=jbkSRLYSojo)
+[![Hans' BBC Show](https://img.youtube.com/vi/jbkSRLYSojo/0.jpg)](https://www.youtube.com/watch?v=jbkSRLYSojo)
