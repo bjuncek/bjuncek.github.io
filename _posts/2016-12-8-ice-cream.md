@@ -26,7 +26,7 @@ Never until now, that is.
 
 ##### Gelato vs ice-cream
 First, let me make clear that I don't believe in the difference between
-gelato and ice-cream, as gelato literally means ice-cream in Italian.
+gelato and ice-cream, as gelato literally means ice-cream in English.
 That said, Americans who (probably) wanted to justify using cheaper ingredients,
 decided that we should treat them differently. Essentially, ice-cream is churned faster, served colder,
 with higher fat percentage, which masks the main flavour a bit (i.e. it works
@@ -44,16 +44,16 @@ made for an amazing perfectly balanced treat. In comparison, every time I ate it
 and the chocolate flavour did not get through, despite (way too) large chunks. Similar story holds for __dark chocolate__ as well; Toscanini's
 version is too sweet, with noticeable ice crystals. If you are branded as the "best ice-cream in the world", at least texture should have
 been spot on. The third flavour and service and environment however go to Toscanini's. While Morano's flavours are excellent regardless of what you choose,
-they can be boring. In contrast, Toscanini's flavours are bold and exciting. __Burnt caramel__ is nothing short of spectacular, and the service is amazing.
+they can be boring. In contrast, Toscanini's flavours are bold, exciting. __Burnt caramel__ is nothing short of spectacular, and the service is amazing.
 Consistently perfect espresso made this my favourite place to hang out at in Boston.
 
 ### Conclusion
 
-First, neither of these are the best ice cream in the world. There is simply no such thing. However they are both amazing in their own way.
-Toscanini's is a much better place to be around, or stop by just for coffee. On the other hand, while I wouldn't recommend it as
-a coffee place, I would gladly eat everything at Morano's.
+First, neither of these are the best ice cream in the world. There is simply no such thing. But they are both amazing in their own way.
+I'd always go and work in Toscanini's, and would gladly eat everything at Morano's.
 
 
+---
 
 ### Recomendations
 
