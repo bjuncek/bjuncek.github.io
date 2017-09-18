@@ -8,8 +8,9 @@ A certain political figure who happens to lead what is arguably most powerful na
 
 As an assignment for my anthropology class in human evolution I was given a [blog post](https://ecodevoevo.blogspot.com/2013/06/evolution-is-only-natural-explanation.html) from an actual scientist (sorry Randal), that tries to explain the evolution in an approachable way. To me, this blog posts explains the idea of evolution better than any textbook did, not only because it is a blog post (which, unlike textbooks is not [scary](https://cnet4.cbsistatic.com/img/f7_I9wHgPC6ZPJW-hLtuI0LZWF4=/0x94:1200x700/fit-in/970x0/2015/03/30/86f92c8d-4d7d-4074-88a8-554a19b76346/monsterbook1.jpg), nor expensive), but also because it doesn’t use big intangible words and doesn’t bother going into details and specifics of things like _genetic drift_, or _comparative genetics_. It rather mentions them in a subtle, almost mysterious way, which _engages_ the reader to overload their browser tabs with numerous NCBI and wikipedia pages, and delves in the depths of youtube, wikipedia, and tumblr. This approach is ingenious, as it is a very effective way to overcome all attention disorders that kids tend to have now-a-days by exploiting it, rather than ignoring it.
 
-_Actual state of my tabs 40 minutes in the reading period:_
+
 ![Actual state of my tabs 40 minutes in](../assets/EVO_chrome_tabs.png)
+_Actual state of my tabs 40 minutes in the reading period:_
 
 
 Furthermore, it is amazing because it captures the essence of evolution, as a scientific theory in a way that made me excited by it. During my brief biology training I have studied evolution several times, yet I never found it particuarly exciting.
@@ -18,7 +19,7 @@ It was always a bunch of definitions, that happen somehow, somewhere, make sense
 Naturally, I found it to be a bunch of gibberish. A brief look at Dunsworth’s blog, and the words she use, tells you straight away what evolution really is about.
 
 ![Comparison of most used words in the article (left) and wikipedia introduction (on the rigth)](../assets/EVO_word_freq.png)
-
+_Comparison of most used words in the article (left) and wikipedia introduction (on the rigth)_
 
 And, if I'm parsing it correctly, it is about 3 things: **time, change, and (natural) selection**. And the one that stuck the most to me, and the one I spent most time googling around for is time.
 
@@ -29,14 +30,14 @@ Time is an amazing concept that has had a profound effect on people for centurie
 
 Not only is Dunsworth's blog more suitable, but it is somehow...nicer, than most textbooks (I know, I know, bear with me on this one). It doestn't seem to be condescending - it is just like a letter from a (very clear thinking) person to the other. It at least partially due to the informal style of writing, but I suspect at least small part of it a consequence of her word choice. Her words are less-complicated and, according to the Bing's scale of sentimental connotations of particular words, more positive
 
-##### Positive vs negative words in the blog post
+
 ![Positive vs negative words in the blog post](../assets/EVO_wc_evo.png)
+ _Positive vs negative words in the blog post_
 
 while the one on wikipedia seem to be more complicated, and proportionally more negative.
 
-##### Positive vs negative words in the wikipedia article on evolution
 !![Positive vs negative words in the wikipedia article on evolution](../assets/EVO_wc_wiki.png)
-
+_Positive vs negative words in the wikipedia article on evolution_
 
 ### To sum up
 
