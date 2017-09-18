@@ -10,7 +10,7 @@ As an assignment for my anthropology class in human evolution I was given a [blo
 
 
 ![Actual state of my tabs 40 minutes in](../assets/EVO_chrome_tabs.png)
-_Actual state of my tabs 40 minutes in the reading period:_
+_Actual state of my tabs 40 minutes in the reading period_
 
 
 Furthermore, it is amazing because it captures the essence of evolution, as a scientific theory in a way that made me excited by it. During my brief biology training I have studied evolution several times, yet I never found it particuarly exciting.
@@ -32,6 +32,7 @@ Not only is Dunsworth's blog more suitable, but it is somehow...nicer, than most
 
 
 ![Positive vs negative words in the blog post](../assets/EVO_wc_evo.png)
+ 
  _Positive vs negative words in the blog post_
 
 while the one on wikipedia seem to be more complicated, and proportionally more negative.
