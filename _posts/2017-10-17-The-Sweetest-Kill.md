@@ -7,8 +7,8 @@ Ironically, I was listening to _Sweetest Kill_ by _Broken Social Scene_, while I
 
 <iframe src="https://open.spotify.com/embed/track/0ey9VL7lFerteaCVvahKYV" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
-
-  Molasses can be fermented to produce rum and ethanol, the active ingredient in other alcoholic beverages and a key component in the manufacturing of munitions.
+Apparently,
+  _Molasses can be fermented to produce rum and ethanol, the active ingredient in other alcoholic beverages and a key component in the manufacturing of munitions._
 
 
 I wonder if how many bottles of rum were produced and consume in order to solve this problem
