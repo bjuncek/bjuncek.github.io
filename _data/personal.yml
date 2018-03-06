@@ -1,0 +1,7 @@
+
+# the name of social network must match the appropriate font awesome icon name
+
+social:
+  github: 'https://github.com/bjuncek'
+  twitter: 'https://twitter.com/bjuncek'
+  linkedin: 'https://linkedin.com/in/bkorbar/'

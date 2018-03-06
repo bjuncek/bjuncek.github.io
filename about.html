@@ -1,5 +1,5 @@
 ---
-title: about
+title: resume
 permalink: "about/index.html"
 layout: default
 ---
@@ -8,7 +8,7 @@ layout: default
   <div class="col-md-12">
     <div id="about_me">
       <h2>About me</h2>
-      <p>This is the first time I'm playing with Jekyll. Give me some time, please</p>
+      <p>{{site.data.about.text | markdownify }}</p>
     </div>
   </div>
 </div>

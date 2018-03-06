@@ -1,21 +1,30 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "bkorbar.com" # the base hostname & protocol for your site.
-title: "Bruno Korbar"
 
-paginate: 5 #articles per page
+paginate: 7 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
-#contacts
-git: "https://github.com/bjuncek"  #your github url here.
-twitter: "https://twitter.com/bjuncek"  #Add your twitter url here.
+# header text
+title: "Bruno Korbar"
+header: A blog about many many thingz
 
-#google analytics
+# for welcome page
+# to replace image go to index.html
+email:
+  address: "bjuncek@gmail.com"
+  text: "bjuncek (at) gmail.com"
+# # disqus comment
+# disqus:
+#     shortname: "test" #your disqus comment short name
+
+# google analytics
 google:
     tracking-id: "" #your tracking id here
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
+  - jemoji
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
