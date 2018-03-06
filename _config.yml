@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: "Bruno Korbar"
-header: A blog about many many thingz
+header: Learn. Build. Improve. Repeat
 
 # for welcome page
 # to replace image go to index.html
