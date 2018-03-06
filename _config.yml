@@ -19,7 +19,7 @@ email:
 
 # google analytics
 google:
-    tracking-id: "" #your tracking id here
+    tracking-id: "UA-115240483-1" #your tracking id here
 
 plugins:
   - jekyll-sitemap
