@@ -1,6 +1,6 @@
 ---
 title: "The Best Ice Cream in America"
-tags: [lifestyle, food-review, eating]
+tags: [food]
 ---
 
 

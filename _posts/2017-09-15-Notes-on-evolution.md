@@ -1,6 +1,6 @@
 ---
 title: "Notes on evolution"
-tags: [school, fun]
+tags: [opinion]
 ---
 
 2017 has been a bad year for science.

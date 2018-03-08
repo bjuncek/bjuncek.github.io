@@ -1,6 +1,6 @@
 ---
 title: "Neural Style"
-tags: [art, computer science, neural networks]
+tags: [deep learning, opinion, TIL]
 ---
 
 I have been interested in neural networks for a long time. In the recent couple of months, I have started to look more into

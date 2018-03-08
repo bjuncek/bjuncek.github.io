@@ -1,6 +1,6 @@
 ---
 title: "A tribute to Prof. Hans Rosling"
-tags: [art, computer science, data science]
+tags: [opinion, data science]
 ---
 
 Motivated by [a TED talk](https://www.ted.com/talks/matt_cutts_try_something_new_for_30_days) I've seen recently, I have decided that in 2017, instead of a yearly resolution, 
