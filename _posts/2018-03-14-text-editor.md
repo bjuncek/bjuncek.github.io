@@ -73,7 +73,7 @@ I've used it on the latest macOS, Ubuntu 17.10 and latest Fedora. To find the co
 
 It's too early to say, but I think this one is a keeper.
 I learned to love it and started to lean towards it as my main editor. It doesn't mean that I'll get rid of sublime, however
-**VS code just became my go-to editor**.
+**VS code just became my go-to editor**. It really is that good.
 
 ---
 
