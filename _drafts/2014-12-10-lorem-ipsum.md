@@ -1,6 +1,6 @@
 ---
 title: "Lorem ipsum"
-tags: [lorem]
+tags: [tags: [deep learning, opinion, TIL, events, food, data science, personal, programming, misc]]
 ---
 
 Lorem markdownum potiunda maerenti vernum tantaeque arbore superstes vulnera,

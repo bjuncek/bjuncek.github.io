@@ -1,6 +1,6 @@
 ---
 title: "Markdown demo"
-tags: [demo, markdown]
+tags: [deep learning, opinion, TIL, events, food, data science, personal, programming, misc]
 ---
 
 Different examples of markdown content.
