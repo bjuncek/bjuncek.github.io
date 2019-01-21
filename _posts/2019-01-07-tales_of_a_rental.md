@@ -1,5 +1,5 @@
 ---
-title: "tales of a rental: headrest"
+title: "Tales of a rental: headrest"
 tags: [ TIL, misc]
 ---
 
